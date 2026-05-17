@@ -1,0 +1,10 @@
+Timestamp,Requirement Text,Predicted Type,Confidence (%)
+2026-05-16 22:32:49,"The chatbot shall allow users to reset their account password by initiating the 'reset-password' intent and verifying their security questions.""",FR,85.66
+2026-05-16 22:33:16,"The chatbot system must generate responses to customer queries within 
+ seconds for 99% of requests during standard operating hours",NFR,94.88
+2026-05-16 22:33:55,"""The system must process and respond to user chat inputs within 2.0 seconds under a peak load of 500 concurrent users",NFR,92.36
+2026-05-16 22:34:29,The shopping cart must retain items for up to 30 days.,FR,57.03
+2026-05-16 22:34:43,The platform must allow users to upload profile pictures under 5MB.,FR,60.27
+2026-05-16 22:34:54,API responses shall be delivered within 500 milliseconds under normal load.,NFR,54.27
+2026-05-16 22:35:09,The database must automatically back up data every 24 hours.,NFR,86.42
+2026-05-16 22:35:24,The codebase must have at least 80% test coverage before deployment.,NFR,78.19
