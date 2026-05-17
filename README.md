@@ -5,7 +5,7 @@ This project classifies software requirements as **Functional (FR)** or **Non-Fu
 ---
 
 ## Web App Link:
-*(Add your Streamlit deployment URL here)*
+*https://requirements-classifier.streamlit.app/*
 
 ---
 
